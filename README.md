@@ -9,3 +9,7 @@ https://redistrictingdatahub.org/dataset/south-carolina-block-pl-94171-2020-by-t
 https://redistrictingdatahub.org/dataset/vest-2020-south-carolina-precinct-and-election-results/
 
 https://redistrictingdatahub.org/dataset/2022-south-carolina-congressional-districts-approved-plan/
+
+### General citation
+
+We referenced the jupyter notebooks on the class "AI for Redistricting" during maup cleaning, running markov chain, and generating outlier histograms and marginal box plots.
