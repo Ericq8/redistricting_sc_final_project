@@ -12,4 +12,5 @@ https://redistrictingdatahub.org/dataset/2022-south-carolina-congressional-distr
 
 ### Citation
 
-We referenced the jupyter notebooks on the class "AI for Redistricting" during maup cleaning, running markov chain, and generating outlier histograms and marginal box plots.
+- Referenced the jupyter notebooks in the class of "AI for Redistricting" during maup cleaning, running markov chain, and generating outlier histograms and marginal box plots.
+- Referenced the Github Repo https://github.com/vrdi/shortbursts-gingles/tree/main/state_experiments for running short burst.
